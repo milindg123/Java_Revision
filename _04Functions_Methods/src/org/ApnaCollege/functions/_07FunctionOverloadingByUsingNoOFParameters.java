@@ -3,15 +3,16 @@
  	Function Overloading : Multiple function with same name but different parameters
  	
  	for ex. multiply(int a, int b)
- 			multiply(float a, float b)
- 			multiply(int a, int b, int c,)
+ 		multiply(float a, float b)
+ 		multiply(int a, int b, int c,)
+
+    
+ 	two Important things'::::
+ 	1) data types of parameters 
+ 	2) No. of parameters we passed
  			
- 			two Important things'::::
- 			1) data types of parameters 
- 			2) No. of parameters we passed
  			
- 			
- 			Function overloading do not depend on return type of the function
+ 	Function overloading do not depend on return type of the function
  */
 
 

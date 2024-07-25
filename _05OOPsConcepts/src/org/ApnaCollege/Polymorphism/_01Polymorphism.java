@@ -9,12 +9,10 @@
  	Types of Polymorphism : 
  	
  	1) Compile Time Polymorphism : static in nature (also called dynamic type polymorphism) 
- 	
- 									(Method overloading)
+ 					(Method overloading)
  									
  									
- 	2) Run TimePolymorphism : 
- 								(Method Overriding)
+ 	2) Run TimePolymorphism : 	(Method Overriding)
  */
 
 

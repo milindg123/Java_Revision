@@ -26,11 +26,11 @@ public class _01FunctionSyntax {
 	
 	
 	
-//				return type of main function
-//					|
+//		return type of main function
+//			|
 	public static void main(String[] args) {
-//						|	
-//						function name --> main
+//			    |	
+//			function name --> main
 		
 		 
 		printHelloWorld(); // Function calling -> simply function name write

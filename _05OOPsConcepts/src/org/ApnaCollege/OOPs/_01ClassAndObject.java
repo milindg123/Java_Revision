@@ -1,7 +1,39 @@
+/* Program to demonstrate the basic concepts of the objects and the classes
+ 	
+ 	Objects : Objects is a any real world entities
+ 			
+ 			for ex. Pen class having p objects
+ 			
+ 			Syntax: Pen p = new Pen(); 			
+ 	
+---------------------------------------------------------------------------------------------- 	
+ 	
+ 	Class : Class is a blueprint of Objects
+ 			Class is group on objects
+ 			
+ 			class Person{
+ 			
+ 				// Data members
+ 				// Methods/Functions
+ 			}
+------------------------------------------------------------------------------------------ 			
+ 			
+ 	Note : Private and Protected access modifier are not allowed in front of the class
+ 			i.e. private class A{} and protected class A{}  // Not allowed
+ 			
+ 		   public and default access modifiers can be allowed in front of class
+ 		   
+ ---------------------------------------------------------------------------------------------------
+ 	
+ --> Nested class :  can public, private, default , protected 
+ --> Constructor  :  can public, private, default , protected 
+ --> Methods	  :  can public, private, default , protected 
+ --> Field		  :  can public, private, default , protected 
+ 
+ */
+
+
 package org.ApnaCollege.OOPs;
-
-
-
 
 class Pen{
 	String color;

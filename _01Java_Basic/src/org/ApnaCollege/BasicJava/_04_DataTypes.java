@@ -5,7 +5,7 @@ public class _04_DataTypes {
 	public static void main(String[] args) {
 		
 /*			Data types in Java
-				  /\
+		 	  /\
 		         /  \
 		        /    \
 		Primitive    Non-primitive
@@ -14,7 +14,7 @@ public class _04_DataTypes {
 		short			Array
 		char			Class
 		boolean			Object
-		int				Interface
+		int			Interface
 		long
 		float
 		double

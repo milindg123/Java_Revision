@@ -1,8 +1,8 @@
 // Program to demonstrate the call by value concepts by using the swapping technique
 
-/*		Call by value:
- 						java always calls by value
- 						Formal parameters (Arguments copy passed to parameters)
+/*   	Call by value: 	java always calls by value
+ 			Formal parameters (Arguments copy passed to parameters)
+     
  						
  ---> In call by value we *****(do not passed the original value)***** of the variable 
  	  to the formal parameters we passed the ***(copy of the Arguments)**** or copy of original variable 

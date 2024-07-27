@@ -6,8 +6,10 @@
  	Static Keyword : static keyword in java is used to share the same variable or method of a given class
  	
  	--> Properties  --|
- 					  |--> Function and properties we can make the static by using the static keyword 
- 	--> Functions 	--|		for ex. School Name of each and every student is same then we simply make the school name is static
+ 			  |--> Function and properties we can make the static by using the static keyword 
+ 	--> Functions 	--|	for ex. School Name of each and every student is same then we simply make the school name is static
+
+  	// Not important for interview perspective
  	--> Blocks
  	--> Nested Classes
  	
@@ -43,7 +45,7 @@ public class _05StaticKeyword {
 		s1.schoolName = "Shramik";
 		
 		Student s2 = new Student();
-		System.out.println(s2.schoolName);
+		System.out.println(s2.schoolName); // It takes s1 school name 
 		
 		
 		Student s3 = new Student();

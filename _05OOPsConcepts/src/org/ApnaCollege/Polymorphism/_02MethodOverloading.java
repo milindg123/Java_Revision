@@ -1,7 +1,7 @@
 /*
   Program to demonstrate the method overloading
   
-  // Compile time poly
+  // Compile time polymorphism
   Method Overloading : Multiple functions with the same name but different parameters
  
  */

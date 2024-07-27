@@ -1,5 +1,5 @@
 /*
- 	Break Statement : to exit the loop break statement is used
+ 	Break Statement : to exit from the loop break statement is used
  	
  */
 
@@ -13,7 +13,7 @@ public class BreakStatement {
 		for(int i =1; i<=5; i++) {
 			if(i == 3) {
 				break;
-				// Here if i==3 then the next iteration of the loop is exit
+				// Here if i==3 then the next iteration is not executes flow of the program not continue  ( exit from the loop )
 			}
 			System.out.println(i);
 		}
